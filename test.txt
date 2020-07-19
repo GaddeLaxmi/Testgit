@@ -1,1 +1,4 @@
 This is my git test file
+making changes
+learning chnages
+how changes are pushed to git
